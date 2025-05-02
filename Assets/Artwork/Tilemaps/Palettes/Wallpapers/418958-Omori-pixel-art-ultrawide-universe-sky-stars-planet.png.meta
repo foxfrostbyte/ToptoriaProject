@@ -1,0 +1,3647 @@
+fileFormatVersion: 2
+guid: 63f9ad29444644c4696916b9da33d27c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f92ffa3cd9d13e498be5bd34332b5e1
+      internalID: -241589624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251905f1e08537a468cea641829c32d3
+      internalID: 1026560770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf50ed8b29acd24a9f49a4631afe2a0
+      internalID: -2125037585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e0f56dc28fbc64a8bfd17c8402394b
+      internalID: 1317818378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2addece0c76e68d488e5720ea35c602c
+      internalID: -1550977932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3431ff8641a34ed4382c5042a1b2de19
+      internalID: 1802818398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c5219c5f560c04f93a8af176460a7d
+      internalID: 1163878952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dfb27e51b1c884e97f62ca7d373b37
+      internalID: 277736199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b163b4d1f7c924e983dfc570bc89fb
+      internalID: -2111379597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10c45451b8ca284db79cf6d1b616cca
+      internalID: -412224992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b706e0bd9c194fb6d635371f0fb3f
+      internalID: 339755119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea04c85ec7caa2641aeed123277e13f9
+      internalID: 1402188245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a71bd02f295e447af0ca54cd2af7ba
+      internalID: -44446059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6513a9dfc3f50742b59849ff76c656f
+      internalID: 562466368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb962b1f6d691b4aa142e541d087de2
+      internalID: -2004423873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b505392b253a7fe4bb8981b730e4e87d
+      internalID: 1730889897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c6971b7d6ce1a44a93f6913554d4a5
+      internalID: 1911728704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568ab689a5c3ce64c99ed2e82400eca2
+      internalID: -1022082939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee15a4ba49fd9548ad0bda74b5195be
+      internalID: 2008388601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd31dd6ff1b026d40b3474f37af26bf5
+      internalID: 923212769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63accd0679f3af344b7a4a4bfdcc0f5d
+      internalID: 1499598322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43ac6efd85d8f246b9ce4c3c73c2cdd
+      internalID: -870845184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fea642cfe7dc164c8eb37da94f49abe
+      internalID: 1281369803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde8aff393c8b7941b24fbb5931e1550
+      internalID: 1135556842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2250f6cfd8dd89048afc31ecf2c4c10a
+      internalID: -400652760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b13910426a074fbdf07c5d00451df
+      internalID: -874999363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013bbc47cd0530546a4b4c626b34e43f
+      internalID: 623383876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d80e494a631fd4c915d5ef3503152b
+      internalID: -1926425764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3616842336fd1b04b97407e329545a97
+      internalID: -996048431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f793156f739bcfa49860dcdf0f5fe78a
+      internalID: 1751225129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fe9b3ee33f12146b82d2d6633799d5
+      internalID: -2044646544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_31
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c34070c82745c42b323d91684cbcea
+      internalID: -282861812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_32
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d4620d11c9d964aa55e63ed7ae8c29
+      internalID: 1891284211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_33
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6da27cfddd91e499da668009ba6248
+      internalID: -1099599472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_34
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9a93fe1fcb153458cb2e1ed74c51cf
+      internalID: 781233438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_35
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7470b9956c4004e9fa90433d4ac9e1
+      internalID: -1312179600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c82710183fb1c45a5056107e25b563
+      internalID: 1440401519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_37
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcab8908ab7b62a4db351dd5c19618e3
+      internalID: 1972420160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_38
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc24e33d667474cbf528cfe30e1e7a
+      internalID: -514941358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_39
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126fa0081dc6b4947a5f8e62bfb6f2fb
+      internalID: 1519553556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff86d4678aa2c4bba3eb287d919ac3
+      internalID: 1858318813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85daf03eaaeed7498130b54c68238ab
+      internalID: 1996177041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0108fc183e0d8d4b9d817f69d0710ac
+      internalID: 1728835546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c956b8f7047bcca438f02bd65c65414d
+      internalID: 733422454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db42fe8ac948dad4d807bb4617f757b9
+      internalID: -176629715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1d91796db6dce47ac1fb796f1d4566
+      internalID: 163626870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b893442d1b3b24e4eaf85a6606887af0
+      internalID: 1268254344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829505ee49655264bba24f57c71889c5
+      internalID: 1656590231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792a36bf51f450d4b8cb272ea5ed9c98
+      internalID: -1056031469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_49
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d587ab6d278cbe746bfc6ed8fa709aac
+      internalID: -2040076662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a070cb829f508e446a233ee82d133bba
+      internalID: -2067665897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_51
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f60fa8f567d2ae4d995414366765a73
+      internalID: 1117706147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_52
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17812cd6390377545987b7e54204780a
+      internalID: 703473603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_53
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d28efec0c3d7a459d7b805ff9c9dbb
+      internalID: -84332013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_54
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8898e266c40c2449da367156bb1688
+      internalID: 1200315436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_55
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e89710afbdd1b7438c5dd1a2a7bbe0e
+      internalID: -1081126961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_56
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1618a8e705af834080a44cd26024d7b
+      internalID: 1300374138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_57
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de931364374f16d49815c42ce1c749a9
+      internalID: 850352481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_58
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34abb2bad7643a1408a54ca67acd2a50
+      internalID: 1807598221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_59
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6fc5cf8b7758f41a4ff156294b8b1e
+      internalID: 546773159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49a512edfb53be4da7b4ab47566e5e6
+      internalID: 531458007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279b2dfbfd4ac95469530dc30bc21ceb
+      internalID: 1155939947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb51870e5b6e1324f914da72204a827e
+      internalID: -553254198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361b74c361cc084b9db5de5405b3ab7
+      internalID: 1925634449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c90ce2b3712bd94b84634081bcd716b
+      internalID: 993015292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3501f2c76deb224687731c5bf3526f6
+      internalID: 1624121761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e1096198b5f6f458efa88d72c4f7f0
+      internalID: 177596734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f443980a8f8a8354982306a681ac3d1f
+      internalID: 1640760230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2266dfe65cb9a84eae3e75238f2638e
+      internalID: 2033706837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ec9212d22aa9d44b3dd6042735f7f2
+      internalID: 1216175426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab95c95589f79e489db7580ae5a7afd
+      internalID: -1742887345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_71
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d0a83a47a5644a953eed8761f1857
+      internalID: -920785845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_72
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ea5441908fd540a6c3cb465fe764c
+      internalID: 1816630218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_73
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ee22fe4616f0944bd520632c114804
+      internalID: -69304061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_74
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd418d153b9de24fb99f784b8d0ccba
+      internalID: -1610044084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_75
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de524594bc1cd74428ba648528de396e
+      internalID: 510557050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_76
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f97529aaef5ed440ad10c0f45ef84a4
+      internalID: -1658745197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_77
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c89df516590a8f42abc1b086f178456
+      internalID: 884338735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_78
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec2e568e75492144bc253fb4e0b94fa
+      internalID: -647627620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_79
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915a01c7a1c670946984aa33a0caa745
+      internalID: 1445119755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34236a4a2bd1a14bbbae3937aaa44e5
+      internalID: -766461119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb06eaa5d9c5c0a459fb983a9db08374
+      internalID: 264301553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7558b4ed0bbcf3b4c8e5c72be69a9dc0
+      internalID: -34617447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d505144bf208c44b1d5e7090e646f4
+      internalID: 1270893911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22175c4a0f147943be8def9f9c63eeb
+      internalID: 2007840438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea11285121bd34aabf085c4841a8d3
+      internalID: -1205045913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf734e13c3299f249b1b21dba03975f8
+      internalID: -1813895809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c52f0f07990f3449b7de5a93e54eeb
+      internalID: 1944030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99810769fe9d7dd4885f5e33d26c579c
+      internalID: -1500649201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d4fe868385094f8326bedf2b951e7
+      internalID: 1603849154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4051347365fa46b534ff0f2a7e9c4
+      internalID: 1679417140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9b77c5cecfef40916f34f6fa2c201
+      internalID: -479929756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d965fd2c1e5764d9a3d13808e54974
+      internalID: 1031100442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70d2103e4a6fc49b82a37658be1c57
+      internalID: 545082281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d393abb2886444bbfc4d0a1a7acfc7
+      internalID: -1685767279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae0980f8326aaf4badea8bdf7050e48
+      internalID: 2052955271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_96
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7e34ac5344c9440a3d3f77f4880f2f
+      internalID: -801891917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_97
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e039eac8e53fc40419fe5dc55acbede6
+      internalID: 502990752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_98
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e838b32624325d4f83feb0ad691021a
+      internalID: -1296679712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_99
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf191ab7e280d3f47b47d2273adeeb5e
+      internalID: -1208266934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febe584e8137fb74ba3bd87abf0e017b
+      internalID: 1364245183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea82a487eb678442ac4a7466611f513
+      internalID: 1893947641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f8c85238a28a4fba2219537cfc713
+      internalID: 891715609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a65918acece294398a113420ce72c4
+      internalID: 1472559592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a8f614e938f7b4bb9aaa82a0f11ba5
+      internalID: -1341923513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63740602e0db8914391db2ea227364f7
+      internalID: -682360667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_106
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840deac609d2e104dadd1c409c3f614b
+      internalID: -1975607880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_107
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339a3fac08b34984c9336541bb9a61c1
+      internalID: -1094748048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_108
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fad406ce242b73489e4b2001f239a35
+      internalID: -850370598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_109
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c37cf92a98cf47839f8e011316855
+      internalID: 685066499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_110
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fd567ec041e6d4e9347e2253e5adec
+      internalID: -1822381485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_111
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017c97e0de998c54499dc7ef0adecf13
+      internalID: -1879509879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_112
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3849b1c64181344896513f356e1ab6
+      internalID: -1178067448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_113
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990dfa38f979034da0d60eb8323fca7
+      internalID: -699125203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_114
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068e128fe0bb4a478fcc31e1abc7d6d
+      internalID: 744318617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_115
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5bac10e95a80c42bde051889eacb45
+      internalID: 1207301593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_116
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dc19f526d26d642a928953e517eda9
+      internalID: -618092626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_117
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a7dcff1fc13b2499aefe3b7b132adc
+      internalID: -1842232891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_118
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7dac6a9ab3e0540905880d83cf0d5c
+      internalID: -1251276963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_119
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813eeafbe5d3e194c951057e2b259e17
+      internalID: 634747064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a532d343cf5254db350d6b98b9bc5e
+      internalID: 562947111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d43197469ec2a4891dfc06701eac34
+      internalID: -411895561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb2300b8860e748aca6f4b5b8daf09
+      internalID: 1449044533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0332f6d5e31d6b5459a762d9981da485
+      internalID: -1333288434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4580ac1312e9e64195c86878c107537
+      internalID: 1525869393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0e06ed46cce9439b6d11dd8c5c64c
+      internalID: 1854665680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_126
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bdd3a6da494bc4c9c933bfafaa9135
+      internalID: 315800595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_127
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb7ff6c0736754d9f4d00aa4925808
+      internalID: 806326636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_128
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df5e9655cca8f4d97f55839159fd38
+      internalID: 131484443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_129
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ecd4605edc2d419aa18f2619b936d
+      internalID: 1659515478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_130
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9af64f6ef4503488069c843cd4d94a
+      internalID: -175041479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_131
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828dc79316c04434b8cff603d503cd54
+      internalID: 1881663899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_132
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9feeb4215f1904281ad16dcb8e1d0c
+      internalID: 579954564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_133
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ef37d5a15d834dbf0c7e12884ddac
+      internalID: 982667540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_134
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b574bc87337d498ee35d0e884620f
+      internalID: 1017797019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_135
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a387a3516bb9a5489a48f5c5e8c4562
+      internalID: 1098748967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_136
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8cc7e75cec1ef4891b2ba1bc44492a
+      internalID: 173368173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_137
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998f6f40aecf15429050e5fb739db42
+      internalID: 1840756532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_138
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1761663f87c98b644979040ee1b2caee
+      internalID: 1944670479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_139
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2895b2f81d57f84397077906e5f8d67
+      internalID: -705325360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d50a486dd7d5d4495b7521f8750999
+      internalID: -1620180676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7e8fa4fa191f747a1bdbd21f83a9e0
+      internalID: -1179621546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0f3495cd91b8e46bed8c591ff1f366
+      internalID: -1753640880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cce722920d4f443a9f83422e345997
+      internalID: -870319955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad276009a23d51c4ead99859bd600f66
+      internalID: 1455402021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_145
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b4c6a93608d0e48a0289c7ddd0d129
+      internalID: 1545326105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9ab8f6b2d010142a0552c4b3a135e3
+      internalID: -1356101915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_147
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420b43720fce4774f93b5bd35f58a90f
+      internalID: -584539974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b965b1404be734cac887142c4ecc72
+      internalID: -2046493557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_149
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb8e6310bee47d4b9317ab21e19a378
+      internalID: -1626219526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_150
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dd95eeabac53b4fa1f6aeedcf0c32a
+      internalID: -1545355774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_151
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b20933f1f17f74f8281e30aa456249
+      internalID: -2038328117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_152
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30bc130fa60834caf400fe2051ce6b
+      internalID: -646421019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_153
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b41f4ed6528dc2478a8648ed8107cf4
+      internalID: 880896996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_154
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f751dd37bb74448b89f2ea6c2e7b2
+      internalID: 2123086086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_155
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b5ae8613337841a9efbe89002508c
+      internalID: 1474568112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_156
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21985e047c3f00c4ca2d0070e8cc457d
+      internalID: -647631313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_157
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45281f66dac05c4f81848d251873fe7
+      internalID: 1781022295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_158
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb237062c70ac0428396170c73530f3
+      internalID: 1820829966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_159
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e126dee0e85975448225ec88d7114f3
+      internalID: 515740817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_0: -241589624
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_1: 1026560770
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_10: 339755119
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_100: 1364245183
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_101: 1893947641
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_102: 891715609
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_103: 1472559592
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_104: -1341923513
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_105: -682360667
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_106: -1975607880
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_107: -1094748048
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_108: -850370598
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_109: 685066499
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_11: 1402188245
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_110: -1822381485
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_111: -1879509879
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_112: -1178067448
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_113: -699125203
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_114: 744318617
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_115: 1207301593
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_116: -618092626
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_117: -1842232891
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_118: -1251276963
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_119: 634747064
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_12: -44446059
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_120: 562947111
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_121: -411895561
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_122: 1449044533
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_123: -1333288434
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_124: 1525869393
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_125: 1854665680
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_126: 315800595
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_127: 806326636
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_128: 131484443
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_129: 1659515478
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_13: 562466368
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_130: -175041479
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_131: 1881663899
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_132: 579954564
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_133: 982667540
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_134: 1017797019
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_135: 1098748967
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_136: 173368173
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_137: 1840756532
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_138: 1944670479
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_139: -705325360
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_14: -2004423873
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_140: -1620180676
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_141: -1179621546
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_142: -1753640880
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_143: -870319955
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_144: 1455402021
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_145: 1545326105
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_146: -1356101915
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_147: -584539974
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_148: -2046493557
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_149: -1626219526
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_15: 1730889897
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_150: -1545355774
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_151: -2038328117
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_152: -646421019
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_153: 880896996
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_154: 2123086086
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_155: 1474568112
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_156: -647631313
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_157: 1781022295
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_158: 1820829966
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_159: 515740817
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_16: 1911728704
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_17: -1022082939
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_18: 2008388601
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_19: 923212769
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_2: -2125037585
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_20: 1499598322
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_21: -870845184
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_22: 1281369803
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_23: 1135556842
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_24: -400652760
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_25: -874999363
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_26: 623383876
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_27: -1926425764
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_28: -996048431
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_29: 1751225129
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_3: 1317818378
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_30: -2044646544
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_31: -282861812
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_32: 1891284211
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_33: -1099599472
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_34: 781233438
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_35: -1312179600
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_36: 1440401519
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_37: 1972420160
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_38: -514941358
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_39: 1519553556
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_4: -1550977932
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_40: 1858318813
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_41: 1996177041
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_42: 1728835546
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_43: 733422454
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_44: -176629715
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_45: 163626870
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_46: 1268254344
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_47: 1656590231
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_48: -1056031469
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_49: -2040076662
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_5: 1802818398
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_50: -2067665897
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_51: 1117706147
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_52: 703473603
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_53: -84332013
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_54: 1200315436
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_55: -1081126961
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_56: 1300374138
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_57: 850352481
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_58: 1807598221
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_59: 546773159
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_6: 1163878952
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_60: 531458007
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_61: 1155939947
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_62: -553254198
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_63: 1925634449
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_64: 993015292
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_65: 1624121761
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_66: 177596734
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_67: 1640760230
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_68: 2033706837
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_69: 1216175426
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_7: 277736199
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_70: -1742887345
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_71: -920785845
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_72: 1816630218
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_73: -69304061
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_74: -1610044084
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_75: 510557050
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_76: -1658745197
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_77: 884338735
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_78: -647627620
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_79: 1445119755
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_8: -2111379597
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_80: -766461119
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_81: 264301553
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_82: -34617447
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_83: 1270893911
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_84: 2007840438
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_85: -1205045913
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_86: -1813895809
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_87: 1944030
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_88: -1500649201
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_89: 1603849154
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_9: -412224992
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_90: 1679417140
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_91: -479929756
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_92: 1031100442
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_93: 545082281
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_94: -1685767279
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_95: 2052955271
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_96: -801891917
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_97: 502990752
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_98: -1296679712
+      418958-Omori-pixel-art-ultrawide-universe-sky-stars-planet_99: -1208266934
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
